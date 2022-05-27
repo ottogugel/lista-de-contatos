@@ -50,4 +50,4 @@ Projeto desenvolvido na parte 6 da maratona de programação da Kenzie Academy B
 - [w3schools - js](https://www.w3schools.com/js/default.asp)
 - [Introdução CSS BEM](http://getbem.com/introduction/)
 - [CSS BEM](http://getbem.com/naming/)
-- [KENZIE] (https://www.kenzie.com.br/)
+- [KENZIE](https://www.kenzie.com.br/)
